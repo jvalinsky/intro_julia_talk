@@ -1,6 +1,5 @@
 # Introduction to the Julia Programming Language
 
-
 This is a Pluto.jl notebook. 
 You can run with docker:
 
